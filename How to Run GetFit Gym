@@ -1,0 +1,12 @@
+Prerequisites
+You must have the following installed:
+Node.js (LTS version)
+npm (comes bundled with Node.js)
+Open PowerShell / Terminal and run:
+node -v
+npm -v
+Install Dependencies
+From the project root directory:
+npm install
+Install animation library:
+npm install framer-motion
